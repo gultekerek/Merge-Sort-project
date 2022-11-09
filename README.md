@@ -16,8 +16,5 @@ Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
    [ 8,16,21 ]           [11,12,22]
             
             [ 8,11,12,16,21,22 ]
-            
-            
-            
-            
-            www.patika.dev
+          
+          https://www.patika.dev/tr
